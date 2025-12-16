@@ -20,13 +20,13 @@ This project showcases real-world data engineering workflows, including API inge
 
 ---
 
-##🎯 Project Objectives
+## 🎯 Project Objectives
 
-###✔️ Build an automated ETL pipeline using Apache Airflow
-###✔️ Integrate an external REST API
-###✔️ Perform data transformation using Python
-###✔️ Load structured data into PostgreSQL
-###✔️ Use Docker for reproducible environments
-###✔️ Demonstrate Airflow hooks, operators, and DAG design
+### ✔️ Build an automated ETL pipeline using Apache Airflow
+### ✔️ Integrate an external REST API
+### ✔️ Perform data transformation using Python
+### ✔️ Load structured data into PostgreSQL
+### ✔️ Use Docker for reproducible environments
+### ✔️ Demonstrate Airflow hooks, operators, and DAG design
 
 ---
