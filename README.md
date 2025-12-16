@@ -91,6 +91,8 @@ This project showcases real-world data engineering workflows, including API inge
 
 - Automatically creates the target table if it does not exist
 
+---
+
 ## ⏰ Scheduling & Automation
 
 - Pipeline runs on a daily schedule
