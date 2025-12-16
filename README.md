@@ -73,7 +73,7 @@ This project showcases real-world data engineering workflows, including API inge
 
 - Retrieves JSON response containing astronomy metadata
 
-## 2️⃣ Transform
+### 2️⃣ Transform
 
 - Implemented using Airflow TaskFlow API (@task)
 
@@ -83,7 +83,7 @@ This project showcases real-world data engineering workflows, including API inge
 
 - Prepares data for database insertion
 
-## 3️⃣ Load
+### 3️⃣ Load
 
 - Uses Airflow PostgresHook
 
@@ -98,3 +98,23 @@ This project showcases real-world data engineering workflows, including API inge
 - Task dependencies: Extract → Transform → Load order
 
 - Airflow handles: Retries, Logging and Failure alerts
+
+## 📁 Project Structure
+
+```bash
+
+.
+├── dags/                  # Airflow DAG definitions
+├── tests/dags/            # DAG tests
+├── .astro/                # Astro CLI configuration
+├── Dockerfile             # Custom Airflow image
+├── docker-compose.yml     # Airflow + Postgres services
+├── requirements.txt       # Python dependencies
+├── packages.txt           # System-level packages
+├── .gitignore
+├── .dockerignore
+├── LICENSE
+└── README.md
+```
+
+
