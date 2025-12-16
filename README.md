@@ -1,4 +1,4 @@
-🚀 Airflow ETL Pipeline with Postgres & NASA API
+### 🚀 Airflow ETL Pipeline with Postgres & NASA API
 <div align="center">
 
 ✨ An end-to-end ETL pipeline built with Apache Airflow, Docker, PostgreSQL, and NASA’s APOD API ✨
