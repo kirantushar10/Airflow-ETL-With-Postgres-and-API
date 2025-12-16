@@ -119,4 +119,32 @@ This project showcases real-world data engineering workflows, including API inge
 └── README.md
 ```
 
+## 🚀 Getting Started
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/kirantushar10/Apache-Airflow-ETL-With-Postgres-and-API.git
+cd Apache-Airflow-ETL-With-Postgres-and-API
+```
+
+### 2️⃣ Start services with Airflow
+```bash
+astro dev start
+```
+
+- This will start the project with docker.
+
+### 3️⃣ Access the Airflow UI
+```bash
+URL: http://localhost:8080
+```
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repository and submit a pull request.
+
 
