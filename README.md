@@ -17,7 +17,6 @@ All services run inside Docker containers, providing a reproducible and isolated
 
 This project showcases real-world data engineering workflows, including API ingestion, transformation logic, database loading, and orchestration with Airflow DAGs.
 
----
 
 ## 🎯 Project Objectives
 
